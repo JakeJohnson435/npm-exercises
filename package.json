@@ -1,0 +1,25 @@
+{
+  "name": "npm-exercises",
+  "version": "1.0.0",
+  "description": "\"npm text excercises\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JakeJohnson435/npm-exercises.git"
+  },
+  "author": "Jake Johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JakeJohnson435/npm-exercises/issues"
+  },
+  "homepage": "https://github.com/JakeJohnson435/npm-exercises#readme",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.6.1",
+    "webpack": "^4.6.0"
+  }
+}
