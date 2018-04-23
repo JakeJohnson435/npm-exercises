@@ -1,10 +1,10 @@
 const $ = require('jquery');
 
-const sayHello = hello => {
+const sayHello = () => {
     console.log("Hello");
 };
 
 sayHello();
 
 
-$("body").css("background-color", "red");
+$("body").css("background-color", "blue");
