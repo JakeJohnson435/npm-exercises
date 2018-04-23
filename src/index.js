@@ -7,4 +7,4 @@ const sayHello = hello => {
 sayHello();
 
 
-$("body").css("background-color", "green");
+$("body").css("background-color", "red");
